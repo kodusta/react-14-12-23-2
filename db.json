@@ -3,223 +3,253 @@
     {
       "id": 1,
       "categoryId": 2,
-      "productName": "Chai",     
-      "image":"images/product.jpg",
-      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
-    
+      "productName": "Chai",
+      "slug": "chai",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
     },
     {
       "id": 2,
       "categoryId": 1,
       "productName": "Chang",
-      "image":"images/product.jpg",
-      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      "slug": "chang",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
     },
     {
       "id": 4,
       "categoryId": 1,
       "productName": "Chef Anton's Cajun Seasoning",
-      "image":"images/product.jpg",
-      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      "slug": "chef-antons-cajun-seasoning",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
     },
     {
       "id": 5,
       "categoryId": 2,
       "productName": "Chef Anton's Gumbo Mix",
-      "image":"images/product.jpg",
-      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      "slug": "chef-antons-gumbo-mix",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
     },
     {
       "id": 6,
       "categoryId": 2,
       "productName": "Grandma's Boysenberry Spread",
-      "image":"images/product.jpg",
-      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      "slug": "grandmas-boysenberry-spread",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
     },
     {
       "id": 7,
       "categoryId": 7,
       "productName": "Uncle Bob's Organic Dried Pears",
-      "image":"images/product.jpg",
-      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      "slug": "uncle-bobs-organic-dried-pears",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
     },
     {
       "id": 8,
       "categoryId": 2,
       "productName": "Northwoods Cranberry Sauce",
-      "image":"images/product.jpg",
-      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      "slug": "northwoods-cranberry-sauce",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
     },
     {
       "id": 9,
       "categoryId": 6,
       "productName": "Mishi Kobe Niku",
-      "image":"images/product.jpg",
-      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      "slug": "mishi-kobe-niku",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
     },
     {
       "id": 10,
       "categoryId": 8,
       "productName": "Ikura",
-      "image":"images/product.jpg",
-      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      "slug": "ikura",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
     },
     {
       "id": 11,
       "categoryId": 4,
       "productName": "Queso Cabrales",
-      "image":"images/product.jpg",
-      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      "slug": "queso-cabrales",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
     },
     {
       "id": 12,
       "categoryId": 4,
       "productName": "Queso Manchego La Pastora",
-      "image":"images/product.jpg",
-      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      "slug": "queso-manchego-la-pastora",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
     },
     {
       "id": 13,
       "categoryId": 8,
       "productName": "Konbu",
-      "image":"images/product.jpg",
-      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      "slug": "konbu",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
     },
     {
       "id": 14,
       "categoryId": 7,
       "productName": "Tofu",
-      "image":"images/product.jpg",
-      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      "slug": "tofu",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
     },
     {
       "id": 15,
       "categoryId": 2,
       "productName": "Genen Shouyu",
-      "image":"images/product.jpg",
-      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      "slug": "genen-shouyu",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
     },
     {
       "id": 16,
       "categoryId": 3,
       "productName": "Pavlova",
-      "image":"images/product.jpg",
-      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      "slug": "pavlova",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
     },
     {
       "id": 17,
       "categoryId": 6,
       "productName": "Guiza",
-      "image":"images/product.jpg",
-      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      "slug": "guiza",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
     },
     {
       "id": 18,
       "categoryId": 8,
       "productName": "Carnarvon Tigers",
-      "image":"images/product.jpg",
-      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      "slug": "carnarvon-tigers",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
     },
     {
       "id": 19,
       "categoryId": 3,
       "productName": "Teatime Chocolate Biscuits",
-      "image":"images/product.jpg",
-      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      "slug": "teatime-chocolate-biscuits",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
     },
     {
       "id": 20,
       "categoryId": 3,
       "productName": "Sir Rodney's Marmalade",
-      "image":"images/product.jpg",
-      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      "slug": "sir-rodneys-marmalade",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
     },
     {
       "id": 21,
       "categoryId": 3,
       "productName": "Sir Rodney's Scones",
-      "image":"images/product.jpg",
-      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      "slug": "sir-rodneys-scones",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
     },
     {
       "id": 22,
       "categoryId": 5,
       "productName": "Gustaf's Knäckebröd",
-      "image":"images/product.jpg",
-      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      "slug": "gustafs-knaeckebröd",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
     },
     {
       "id": 23,
       "categoryId": 5,
       "productName": "Tunnbröd",
-      "image":"images/product.jpg",
-      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      "slug": "tunnbrod",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
     },
     {
       "id": 24,
       "categoryId": 1,
       "productName": "Guaraná Fantástica",
-      "image":"images/product.jpg",
-      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      "slug": "guarana-fantastica",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
     },
     {
       "id": 25,
       "categoryId": 3,
       "productName": "NuNuCa Nuß-Nougat-Creme",
-      "image":"images/product.jpg",
-      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      "slug": "nunuca-nuss-nougat-creme",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
     },
     {
       "id": 26,
       "categoryId": 3,
       "productName": "Gumbär Gummibärchen",
-      "image":"images/product.jpg",
-      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      "slug": "gumbar-gummibarchen",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
     },
     {
       "id": 27,
       "categoryId": 3,
       "productName": "Schoggi Schokolade",
-      "image":"images/product.jpg",
-      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      "slug": "schoggi-schokolade",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
     },
     {
       "id": 28,
       "categoryId": 7,
       "productName": "Rössle Sauerkraut",
-      "image":"images/product.jpg",
-      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      "slug": "rossle-sauerkraut",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
     },
     {
       "id": 29,
       "categoryId": 6,
       "productName": "Thüringer Rostbratwurst",
-      "image":"images/product.jpg",
-      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      "slug": "thuringer-rostbratwurst",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
     },
     {
       "id": 30,
       "categoryId": 8,
       "productName": "Nord-Ost Matjeshering",
-      "image":"images/product.jpg",
-      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      "slug": "nord-ost-matjeshering",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
     },
     {
       "id": 31,
       "categoryId": 4,
       "productName": "Gorgonzola Telino",
-      "image":"images/product.jpg",
-      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      "slug": "gorgonzola-telino",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
     },
     {
       "id": 32,
       "categoryId": 4,
       "productName": "Mascarpone Fabioli",
-      "image":"images/product.jpg",
-      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
-    }  
-   
-  ],
+      "slug": "mascarpone-fabioli",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    }
+  ]
+,
   "categories": [
     {
       "id": 1,
